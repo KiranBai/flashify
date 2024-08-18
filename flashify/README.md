@@ -1,6 +1,6 @@
 
 
-# Flashify | Take u Forward Assignment 
+# Flashify 
 
 Flashify is a powerful web application designed to create and manage flashcards, enhancing learning and memorization processes.
 
